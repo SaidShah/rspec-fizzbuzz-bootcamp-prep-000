@@ -10,6 +10,6 @@ def fizzbuzz(num_given)
    elsif (num_given%5==0)
    puts "Buzz"
  else
-   return nil
+   nil
   
 end
