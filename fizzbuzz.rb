@@ -5,9 +5,9 @@ def fizzbuzz(num_given)
   
   if((num_given % 3 == 0)&&(num_given % 5 == 0))
    puts "FizzBuzz"
-   elsif (num_given%3==0)
+   elsif (num_given % 3 == 0)
    puts "Fizz"
-   elsif (num_given%5==0)
+   elsif (num_given % 5 == 0)
    puts "Buzz"
  else
    nil
