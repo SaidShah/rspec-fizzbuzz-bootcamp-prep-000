@@ -3,7 +3,7 @@
 
 def fizzbuzz(num_given)
   
-  if((num_given%3==0)&&(num_given%5==0))
+  if((num_given % 3 == 0)&&(num_given % 5 == 0))
    puts "FizzBuzz"
    elsif (num_given%3==0)
    puts "Fizz"
