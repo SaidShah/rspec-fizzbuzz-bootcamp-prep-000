@@ -11,5 +11,5 @@ def fizzbuzz(num_given)
    puts "Buzz"
  else
    nil
-  
+  end
 end
